@@ -45,7 +45,7 @@ body {
   height: 3rem;
   outline: none;
   border: none;
-  box-shadow: rgba(0, 0, 0, 1);
+  box-shadow: #000000;
   background: var(--foreground-color);
 }
 
